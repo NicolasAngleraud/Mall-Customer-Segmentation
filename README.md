@@ -27,6 +27,6 @@ L'approche comporte les étapes suivantes:
 4. Evaluation
    - Inertie & Silhouette score pour le modèle K-means
    - AIC/BIC & Silhouette score pour le modèle GMM
-   - Analyse/Visualisation des cluster et interprétation potentielle des résultats
+   - Analyse/Visualisation des clusters et interprétation potentielle des résultats
 
 Limitations: faible quantité d'information pour effectuer des analyses plus complexes de segmentation
